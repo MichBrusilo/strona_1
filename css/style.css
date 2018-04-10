@@ -86,7 +86,7 @@ header nav ul li a {
 
 .hero {
 	height: 1000px;
-	background-image: url(https://images.pexels.com/photos/38569/bridal-son-in-law-marriage-wedding-38569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+	background-image: url(https://images.pexels.com/photos/265705/pexels-photo-265705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
 	background-size: cover;
 }
 
@@ -131,4 +131,24 @@ header nav ul li a {
 
 .icons [class*="col-"]:hover h2 {
 	color: #00C7E8;
+}
+/* Featured Works */
+
+.featured {
+	text-align: center;
+	color: #2d2d2c;
+	margin: 40px 0;
+}
+
+.featured h2 {
+	text-align: center;
+	text-transform: uppercase;
+	margin: 15px 0;
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.featured p {
+	margin: 0px 20px;
+	padding: 15px;
 }
