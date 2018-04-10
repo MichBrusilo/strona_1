@@ -81,3 +81,26 @@ header nav ul li a {
 	font-weight: bold;
 	text-transform: uppercase;
 }
+
+/* HERO */
+
+.hero {
+	height: 500px;
+	background-image: url(https://images.pexels.com/photos/38569/bridal-son-in-law-marriage-wedding-38569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+	background-size: cover;
+}
+
+.hero .slogan {
+	background-color: rgba(0,0,0,0.5);
+	padding: 30px 100px 30px 30px;
+	width: 500px;
+	float: right;
+	color: white;
+	text-transform: uppercase;
+	margin-top: 200px;	
+	font-weight: normal;
+}
+
+.hero .slogan span {
+	font-weight: bold;
+}
